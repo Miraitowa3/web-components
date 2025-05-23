@@ -1,20 +1,12 @@
 {
+    "name": "@feng/utils",
     "version": "1.0.0",
     "description": "",
     "private": true,
-    "workspaces": [
-        "packages/*",
-        "play",
-        "docs"
-    ],
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
-    "devDependencies": {
-        "typescript": "^5.8.3",
-        "vue": "^3.5.14"
-    }
+    "license": "ISC"
 }
