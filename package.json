@@ -3,7 +3,10 @@
     "description": "",
     "private": true,
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+     "dev":"pnpm -C play dev && npx echo 111"
+
+
+
     },
     "keywords": [],
     "author": "",
@@ -17,6 +20,6 @@
         "pnpm": ">=9.12.3"
     },
     "dependencies": {
-        "@feng/utils": "workspace:^"
+
     }
 }
